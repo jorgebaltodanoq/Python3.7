@@ -15,9 +15,9 @@ Si tu bendito SO es Windows (Iugg!), pues ni modo, esto son los pasos siguientes
 
 ![Archivo a descargar ](https://i.imgur.com/JEXtXGj.png) 
 
-Una vez descargado el archivo ejecutable en tu navegador, debes ejecutarlo y la clásica, siguiente for siguiente.
+2 Una vez descargado el archivo ejecutable en tu navegador, debes ejecutarlo y la clásica, siguiente for siguiente.
 
-**Para comprobar la instalacion de python en windows debes ejecutar en cualquier consola (cmd, vim, cmder, shell python ) el comando python, así como se indica en la imagen.**
+3. **Para comprobar la instalacion de python en windows debes ejecutar en cualquier consola (cmd, vim, cmder, shell python ) el comando python, así como se indica en la imagen.**
 
 
 ![Python activado ](https://i.imgur.com/5KFi27f.png)
